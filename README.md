@@ -1,4 +1,4 @@
-#youtubeMy
+# youtubeMy
 
 Con questo applicazione si può accedere ad una lista di canali youtube precedentemente scelti, è possibile vedere direttamente il video selezionadolo o scaricarlo
 L'applicazione richiede che venga creato un file nominato "canali.conf" con la lista dei url della sezione video dei canali a scelta.
