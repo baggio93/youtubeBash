@@ -7,4 +7,5 @@ Poi verra visualizata la lista dei primi 30 video del canale, selezionato il num
 
 ## Applicazioni richieste:
 youtube-dl
+
 mpv 
