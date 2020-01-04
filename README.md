@@ -11,3 +11,9 @@ Poi verra visualizata la lista dei primi 30 video del canale, selezionato il num
 -mpv 
 
 ## Configurazione file
+
+### canali.conf
+il file deve essere contenere i nome che si vuole dare al canale seguto dal url della sezione video del canale separato da =
+```
+PewDiePie=https://www.youtube.com/user/PewDiePie/videos
+```
