@@ -18,3 +18,25 @@ il file deve essere contenere i nome che si vuole dare al canale seguto dal url 
 ```
 PewDiePie=https://www.youtube.com/user/PewDiePie/videos
 ```
+
+### By Andrea Baggieri
+
+# youtubeMy
+
+The application is for linux distribution, principally based to ubuntu.
+With this application you can see the list of canal if you select, you can see the video or donwload.
+The application need to create a file named "canali.conf" with the list URL from youtube section videos.
+Start the application "youtubeMy.sh" you see the list of your canal select, you select the canal, after you select to see or donwload, and new see the list of first 30 video, select the video to execute the comand selected.
+
+## Application needed 
+-youtube-dl
+
+-mpv
+
+## configuration file
+
+### canali.conf
+The file need a name of the canal if you see, after you put the character =, after the url youtube section videos, every line you put one canal.
+```
+PewDiePie=https://www.youtube.com/user/PewDiePie/videos
+```
