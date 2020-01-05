@@ -26,7 +26,7 @@ PewDiePie=https://www.youtube.com/user/PewDiePie/videos
 The application is for linux distribution, principally based to ubuntu.
 With this application you can see the list of canal if you select, you can see the video or donwload.
 The application need to create a file named "canali.conf" with the list URL from youtube section videos.
-Start the application "youtubeMy.sh" you see the list of your canal select, you select the canal, after you select to see or donwload, and new see the list of first 30 video, select the video to execute the comand selected.
+Start the application *youtubeMy.sh* you see the list of your canal select, you select the canal, after you select to see or donwload, and new see the list of first 30 video, select the video to execute the comand selected.
 
 ## Application needed 
 -youtube-dl
